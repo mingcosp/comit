@@ -1,0 +1,9 @@
+this is a teste
+exit
+q
+-q
+t
+t
+x
+x!
+
